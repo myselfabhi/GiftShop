@@ -1,4 +1,4 @@
-# E-Commerce Gift Shop Website
+# E-Commerce Gift Shop Website.
 
 Welcome to the E-Commerce Gift Shop website project! This Angular-based web application allows users to browse, search, and purchase a wide variety of gifts from the comfort of their own homes. Whether you're a developer looking to contribute or a user wanting to understand the project better, this README will guide you through the essentials.
 
