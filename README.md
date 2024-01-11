@@ -78,4 +78,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 5. Push your changes to your fork on GitHub.
 6. Create a pull request to the main project repository.
 
-Enjoy exploring and contributing to the E-Commerce Gift Shop website project! If you have any questions or need further assistance, please don't hesitate to reach out to the project maintainers. Happy coding!
+Enjoy exploring and contributing to the E-Commerce Gift Shop website project! If you have any questions or need further assistance, please don't hesitate to reach out to the project maintainers. Happy coding!!!
