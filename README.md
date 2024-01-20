@@ -11,7 +11,7 @@ Welcome to the E-Commerce Gift Shop website project! This Angular-based web appl
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features.
 
 ### Customer Features
 
